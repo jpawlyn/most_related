@@ -1,3 +1,5 @@
+Moved to *https://github.com/jpawlyn/similar_models*
+
 # Most Related
 
 Adds a `most_related` method to an active record model, but can be set to any name using `as: {method name}`. It returns the most related models of the same class based on associated models in common.
